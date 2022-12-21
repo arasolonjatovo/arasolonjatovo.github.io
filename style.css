@@ -1068,3 +1068,11 @@ h4 {
 .center-block.image-resize-mode {
   width: 100px;
 }
+
+.text-center.hero-bloc-text.tc-white {
+  color: #373737 !important
+}
+
+.text-center.mg-lg.tc-white.tight-width-whitespace {
+  color: #373737 !important
+}
